@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="action" name="Real Life Assets" cc_theme_id="cc3">
   <background id="cbg_000.jpeg" name="Joseph Animate 2021's Basement" enable="N" default="N" is_premium="N" aid="10712" money="0" sharing="0"/>
-  <background id="ncc_low.swf" name="Low Horizoon" enable="N" default="N" is_premium="N" aid="10800" money="0" sharing="0"/>
+  <background id="131891937_4806342359440724_2812652351004878120_n.jpg" name="tonyanifire's bedroom" enable="N" default="N" is_premium="N" aid="10800" money="0" sharing="0"/>
   <compositebg id="cbg_living_rm01" name="Living room" enable="N" default="N" thumb="living_rm01.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="10713">
   <bg id="cbg_living_rm01_BG43" index="0">
     <file>action.ncc_medium.swf</file>
